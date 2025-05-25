@@ -1,0 +1,77 @@
+{
+  "total_records": 1950,
+  "columns": [
+    "Freelancer_ID",
+    "Job_Category",
+    "Platform",
+    "Experience_Level",
+    "Client_Region",
+    "Payment_Method",
+    "Job_Completed",
+    "Earnings_USD",
+    "Hourly_Rate",
+    "Job_Success_Rate",
+    "Client_Rating",
+    "Job_Duration_Days",
+    "Project_Type",
+    "Rehire_Rate",
+    "Marketing_Spend"
+  ],
+  "processing_time": 1748093212.1255364,
+  "stats": {
+    "Freelancer_ID": {
+      "mean": 975.5,
+      "std": 563.0608315271095,
+      "min": 1.0,
+      "max": 1950.0
+    },
+    "Job_Completed": {
+      "mean": 150.86410256410255,
+      "std": 85.48076991483634,
+      "min": 5.0,
+      "max": 299.0
+    },
+    "Earnings_USD": {
+      "mean": 5017.566666666667,
+      "std": 2926.2799176437297,
+      "min": 51.0,
+      "max": 9991.0
+    },
+    "Hourly_Rate": {
+      "mean": 52.579774358974355,
+      "std": 26.92758411366342,
+      "min": 5.02,
+      "max": 99.83
+    },
+    "Job_Success_Rate": {
+      "mean": 74.95184615384616,
+      "std": 14.615735487299574,
+      "min": 50.16,
+      "max": 99.99
+    },
+    "Client_Rating": {
+      "mean": 3.9958923076923076,
+      "std": 0.575975847767242,
+      "min": 3.0,
+      "max": 5.0
+    },
+    "Job_Duration_Days": {
+      "mean": 44.70461538461539,
+      "std": 26.022998259428718,
+      "min": 1.0,
+      "max": 89.0
+    },
+    "Rehire_Rate": {
+      "mean": 44.55691282051283,
+      "std": 20.19384191823756,
+      "min": 10.0,
+      "max": 79.95
+    },
+    "Marketing_Spend": {
+      "mean": 248.5174358974359,
+      "std": 148.08458073479645,
+      "min": 0.0,
+      "max": 499.0
+    }
+  }
+}
