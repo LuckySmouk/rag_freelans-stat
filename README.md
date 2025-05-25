@@ -42,11 +42,16 @@
 - SSD для кэширования данных  
 
 ### Программные зависимости
+
 ```bash
 pip install requests pandas numpy loguru scikit-learn
 ```
 
 ### Ollama модели
+
+Скачайте и установите ollama последней версии.
+https://ollama.com/download
+
 ```bash
 ollama pull nomic-embed-text:latest
 ollama pull qwen3:latest
