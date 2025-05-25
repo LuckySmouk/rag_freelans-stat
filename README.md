@@ -49,7 +49,7 @@ pip install requests pandas numpy loguru scikit-learn
 
 ### Ollama модели
 
-Скачайте и установите ollama последней версии.
+Скачайте и установите ollama.
 https://ollama.com/download
 
 ```bash
